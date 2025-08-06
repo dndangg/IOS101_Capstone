@@ -49,7 +49,7 @@ An app that allows judges to rate or score participants at events in an easy and
 
 ### 2. Screen Archetypes
 
-- [ ] Login Screen
+- [x] Login Screen
 * As a judge, I want to be able to log in securely so that only I can access my scoring dashboard.
 
 - [ ] Event Selection Screen
