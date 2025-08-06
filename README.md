@@ -111,3 +111,7 @@ An app that allows judges to rate or score participants at events in an easy and
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+### Progress Demo
+
+![Imgur](https://i.imgur.com/EdsTiWn.gif)
