@@ -1,7 +1,7 @@
 Original App Design Project - README Template
 ===
 
-# APP_NAME_HERE
+# EaseScore
 
 ## Table of Contents
 
@@ -14,17 +14,17 @@ Original App Design Project - README Template
 
 ### Description
 
-[Description of your app]
+An app that allows judges to rate or score participants at events in an easy and streamlined manner. Once all judges' marks are recorded, partipants are ranked based on the average of judge scores.
 
 ### App Evaluation
 
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Category:** Sports/Business/Utility/Events
+- **Mobile:** Only exists on mobile for the end user. Allows a quick and easy way for judges to submit scores to the server.
+- **Story:** At competitive events or business pitches, allows people to rate and rank entrants in order of what pertains to their criteria most. 
+- **Market:** Events with competitions, such as sports or dance competitions. Could also be used for things like Shark Tank. Anything that would require a comparison of competitors.
+- **Habit:** Only necessary to use when there is ongoing event that needs to be judged or ranked. Not meant to be used repeatedly unless there is an event with multiple consecutive rounds.
+- **Scope:** Planned to be a mobile only app. Scoring marks to be sent to a server over the internet—so online only. The app could be expanded to have different uses based on the account type of the user: 'judge' or 'competitor'. In addition to collecting scores, rankings could be publicized to competitors alongside analytics and an option to export more detailed results (things like knowing which judge ranked what).
 
 ## Product Spec
 
