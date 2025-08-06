@@ -89,8 +89,10 @@ An app that allows judges to rate or score participants at events in an easy and
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
 <img src="https://i.imgur.com/DRcXxOn.png" width=600>
+<img src="https://i.imgur.com/zED3GaN.png" width=600>
+<img src="https://i.imgur.com/rJe7wOs.png" width=600>
+<img src="https://i.imgur.com/LIERCpY.png" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
