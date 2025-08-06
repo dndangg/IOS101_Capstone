@@ -69,7 +69,7 @@ An app that allows judges to rate or score participants at events in an easy and
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] Login Screen
+- [x] Login Screen
 * -> Event Selection (after successful login)
 
 - [ ] Event Selection
