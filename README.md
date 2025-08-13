@@ -80,7 +80,7 @@ An app that allows judges to rate or score participants at events in an easy and
 * -> Score confirmation screen (after score submission)
 * -> Back to participant list (to choose another participant to score)
 
-- [ ] Results
+- [x] Results
 * -> Live leaderboard updates
 
 - [ ] Settings
