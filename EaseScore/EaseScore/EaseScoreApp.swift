@@ -13,7 +13,7 @@ struct LoginView: View {
     @State private var isLoggedIn = false
     @State private var loginError = false
 
-    let sampleEmail = "judge@example.com"
+    let sampleEmail = "Alex@judging.com"
     let samplePassword = "password123"
 
     var body: some View {
