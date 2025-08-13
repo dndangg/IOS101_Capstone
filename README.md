@@ -52,10 +52,10 @@ An app that allows judges to rate or score participants at events in an easy and
 - [x] Login Screen
 * As a judge, I want to be able to log in securely so that only I can access my scoring dashboard.
 
-- [ ] Event Selection Screen
+- [x] Event Selection Screen
 * As a judge, I want to select the event I am scoring so that I can score the correct participants.
 
-- [ ] Scoring Dashboard
+- [x] Scoring Dashboard
 * As a judge, I want to see a list of all participants and their identifier. A box next to each of their names, when tapped, will allow me to input their score.
 
 ### 3. Navigation
@@ -72,15 +72,15 @@ An app that allows judges to rate or score participants at events in an easy and
 - [x] Login Screen
 * -> Event Selection (after successful login)
 
-- [ ] Event Selection
+- [x] Event Selection
 * -> Participant list and scoring fashboard (once an event is selected)
 
-- [ ] Scoring Dashboard
+- [x] Scoring Dashboard
 * -> Score entry screen (after selecing participant)
 * -> Score confirmation screen (after score submission)
 * -> Back to participant list (to choose another participant to score)
 
-- [ ] Results
+- [x] Results
 * -> Live leaderboard updates
 
 - [ ] Settings
