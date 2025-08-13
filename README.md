@@ -114,4 +114,4 @@ An app that allows judges to rate or score participants at events in an easy and
 
 ### Progress Demo
 
-![Imgur](https://i.imgur.com/EdsTiWn.gif)
+![Imgur](https://i.imgur.com/caIxj2K.gif) ![Imgur](https://i.imgur.com/6kUW4Ne.gif)
